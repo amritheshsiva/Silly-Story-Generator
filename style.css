@@ -1,5 +1,5 @@
 body {
-    font-family: helvetica, sans-serif;
+    font-family: Times New Roman, Times, serif;
     width: 350px;
 }
 label {
@@ -13,8 +13,8 @@ input[type="text"] {
     width: 150px;
 }
 p {
-    background: #FFC125;
-    color: #5E2612;
+    background: #1342e8;
+    color: #fcfcfc;
     padding: 10px;
     visibility: hidden;
 }
